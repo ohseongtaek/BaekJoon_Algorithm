@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Git\BaekJoon_Algorithm\151_통계학\소스.cpp(30,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\BaekJoon_Algorithm\151_통계학\소스.cpp(31,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Git\BaekJoon_Algorithm\151_통계학\소스.cpp(33,35): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  151_통계학.vcxproj -> D:\Git\BaekJoon_Algorithm\x64\Debug\151_통계학.exe
