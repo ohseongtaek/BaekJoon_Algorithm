@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\Git\BaekJoon_Algorithm\157_나는야포켓몬마스터이다솜\소스.cpp(35,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+D:\Git\BaekJoon_Algorithm\157_나는야포켓몬마스터이다솜\소스.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\BaekJoon_Algorithm\157_나는야포켓몬마스터이다솜\소스.cpp(32,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  157_나는야포켓몬마스터이다솜.vcxproj -> D:\Git\BaekJoon_Algorithm\x64\Debug\157_나는야포켓몬마스터이다솜.exe
