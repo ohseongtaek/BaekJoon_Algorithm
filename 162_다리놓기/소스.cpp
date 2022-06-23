@@ -28,7 +28,6 @@ int main() {
             answer /= r++;
         }
         
-
         cout << answer << endl;
     }
  
