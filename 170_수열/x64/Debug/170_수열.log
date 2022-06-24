@@ -1,0 +1,17 @@
+﻿  소스.cpp
+D:\Git\BaekJoon_Algorithm\170_수열\소스.cpp(31,14): warning C4244: '+=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+D:\Git\BaekJoon_Algorithm\170_수열\소스.cpp(40,18): warning C4244: '+=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+D:\Git\BaekJoon_Algorithm\170_수열\소스.cpp(41,14): warning C4244: '-=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+  170_수열.vcxproj -> D:\Git\BaekJoon_Algorithm\x64\Debug\170_수열.exe
