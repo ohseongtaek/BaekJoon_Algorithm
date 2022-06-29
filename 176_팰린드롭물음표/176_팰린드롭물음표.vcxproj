@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d0ca7d86-4bac-45cd-999c-be98233b69c3}</ProjectGuid>
-    <RootNamespace>My175오큰수</RootNamespace>
+    <ProjectGuid>{3d647ea6-f0d5-43f6-8f00-b2ebc45e154b}</ProjectGuid>
+    <RootNamespace>My176팰린드롭물음표</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
